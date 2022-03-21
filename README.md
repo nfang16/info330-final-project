@@ -1,6 +1,7 @@
 # info330-final-project
 
 **Lessons Learned**
+
 **Introduction**
 Throughout my time in this course, I was introduced to SQL and the world of databases. I learned a lot about creating a functional database and the design processes behind creating a database. I learned about the importance of creating an ERD and meta-data spreadsheets in order to better organize your design decisions. I learned about the importance of abstraction layers and how to create better functionality for users. In short, I learned a lot about databases and hope to be able to apply the lessons learned to future jobs and endeavors. 
 
